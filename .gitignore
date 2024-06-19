@@ -1,0 +1,6 @@
+# dependencies
+/node_modules 
+#/.env
+applicationLogger.log
+/tmp
+/upload_dir
